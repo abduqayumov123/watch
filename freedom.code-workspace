@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "freedom",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../../AppData/Local/Temp/AweZip/Temp2/AweZip4/img (2)/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "freedom"
+	}
+}
